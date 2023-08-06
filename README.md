@@ -40,4 +40,5 @@
   - [조이스틱](https://github.com/Lee-HyeongSeok/Programmers/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.md)
   - [체육복](https://github.com/Lee-HyeongSeok/Programmers/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%B2%B4%EC%9C%A1%EB%B3%B5.md)
   - [큰 수 만들기](https://github.com/Lee-HyeongSeok/Programmers/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+  - [구명보트](https://github.com/Lee-HyeongSeok/Programmers/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.md)
 
