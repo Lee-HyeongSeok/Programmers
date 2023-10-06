@@ -43,4 +43,7 @@
   - [구명보트](https://github.com/Lee-HyeongSeok/Programmers/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.md)
   - [섬 연결하기](https://github.com/Lee-HyeongSeok/Programmers/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.md)
   - [단속카메라](https://github.com/Lee-HyeongSeok/Programmers/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.md)
+- **동적 프로그래밍**
+  - [N으로 표현](https://github.com/Lee-HyeongSeok/Programmers/blob/main/%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.md)
+  - [정수 삼각형](https://github.com/Lee-HyeongSeok/Programmers/blob/main/%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.md)
 
