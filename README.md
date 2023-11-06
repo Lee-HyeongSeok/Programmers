@@ -49,4 +49,6 @@
   - [등굣길](https://github.com/Lee-HyeongSeok/Programmers/blob/main/%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%93%B1%EA%B5%A3%EA%B8%B8.md)
   - [사칙연산](https://github.com/Lee-HyeongSeok/Programmers/blob/main/%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.md)
   - [도둑질](https://github.com/Lee-HyeongSeok/Programmers/blob/main/%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%8F%84%EB%91%91%EC%A7%88.md)
+- **DFS, BFS**
+  - [타겟 넘버](https://github.com/Lee-HyeongSeok/Programmers/blob/main/DFS%2C%20BFS/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.md)
 
