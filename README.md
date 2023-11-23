@@ -54,4 +54,5 @@
   - [dfs, 네트워크](https://github.com/Lee-HyeongSeok/Programmers/blob/main/DFS%2C%20BFS/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
   - [bfs, 게임 맵 최단거리](https://github.com/Lee-HyeongSeok/Programmers/blob/main/DFS%2C%20BFS/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.md)
   - [단어 변환](https://github.com/Lee-HyeongSeok/Programmers/blob/main/DFS%2C%20BFS/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.md)
+  - [아이템 줍기](https://github.com/Lee-HyeongSeok/Programmers/blob/main/DFS%2C%20BFS/%EC%95%84%EC%9D%B4%ED%85%9C%20%EC%A4%8D%EA%B8%B0.md)
 
